@@ -1,0 +1,121 @@
+{
+  "id": "3846783",
+  "name": "elicon",
+  "font_family": "iconfont",
+  "css_prefix_text": "el-icon-first",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8220820",
+      "name": "操作-考核得分",
+      "font_class": "cz-khdf",
+      "unicode": "e81f",
+      "unicode_decimal": 59423
+    },
+    {
+      "icon_id": "1153",
+      "name": "添加计划",
+      "font_class": "tianjiajihua",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "687392",
+      "name": "返回",
+      "font_class": "fanhui",
+      "unicode": "e6ff",
+      "unicode_decimal": 59135
+    },
+    {
+      "icon_id": "1305463",
+      "name": "查看",
+      "font_class": "chakan",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "1440640",
+      "name": "个人中心",
+      "font_class": "gerenzhongxin",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "1454752",
+      "name": "修改密码",
+      "font_class": "xiugaimima",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "1727462",
+      "name": "227注册、添加好友",
+      "font_class": "zhucetianjiahaoyou",
+      "unicode": "e8ca",
+      "unicode_decimal": 59594
+    },
+    {
+      "icon_id": "1831590",
+      "name": "个人信息",
+      "font_class": "gerenxinxi",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "2584386",
+      "name": "学生课程分数补偿",
+      "font_class": "xueshengkechengfenshubuchang",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "2726803",
+      "name": "知识竞赛",
+      "font_class": "zhishijingsai",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "3004623",
+      "name": "新闻管理",
+      "font_class": "xinwenguanli",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "10359997",
+      "name": "学生档案",
+      "font_class": "xueshengdangan",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "18170188",
+      "name": "退出,出",
+      "font_class": "exit-full",
+      "unicode": "e97f",
+      "unicode_decimal": 59775
+    },
+    {
+      "icon_id": "19109549",
+      "name": "icon_icon_ 学生管理",
+      "font_class": "icon_icon_xueshengguanli",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "19109728",
+      "name": "icon_icon_老师管理",
+      "font_class": "icon_icon_laoshiguanli",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "27121979",
+      "name": "老师管理",
+      "font_class": "laoshiguanli",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    }
+  ]
+}
